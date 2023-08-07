@@ -1,0 +1,9 @@
+.container_poke {
+    margin: 150px 550px;
+    width: 350px;
+    height: 350px;
+}
+.poke_name {
+    align-items: center;
+    color: rgb(12, 6, 73);
+}

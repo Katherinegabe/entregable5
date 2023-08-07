@@ -1,0 +1,51 @@
+.pokedex_img{
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: #cf1d35;
+}
+.pokedex_message {
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+.pokedex_message_username {
+    font-weight: 700;
+    font-style: normal;
+    color: #fe1936;
+}
+.form {
+    margin-bottom: 2rem;
+
+}
+.form_input-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.form_name-input {
+    min-width: 350px;
+    padding: 12px 25px;
+    background: #ffffff;
+    box-shadow: 0px 3px 6px rgba(0,0,0, 0.15);
+}
+.form_input-type {
+    min-width: 300px;
+    margin-left: 30px;
+    padding: 10px 25px;
+    border: none;
+    background: #ffffff;
+    box-shadow: 0px 3px 6px rgba(0,0,0, 0.15);
+}
+.form_btn {
+    padding: 10px 24px;
+    margin-top: 0.5rem;
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+
+    background-color: #D93f3f;
+    color: #fff;
+    border: none;
+}

@@ -1,0 +1,42 @@
+.home_title {
+    padding: 50px;
+    height: 80px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #fe1936;
+    text-align: center;
+}
+.home_paragraph{
+    padding: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+.home_form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.home_btn {
+    padding: 4px 15px;
+    margin-top: 0.5rem;
+
+    font-weight: 100px;
+    font-size: 18px;
+    line-height: 25px;
+
+    background-color: #D93f3f;
+    color: #fff;
+    border: none;   
+}
+.home_input {
+    min-width: 100px;
+    height: 0.5px;
+    padding: 20px 25px;
+    background: #ffffff;
+    box-shadow: 0px 3px 6px rgba(0,0,0, 0.15);
+}
